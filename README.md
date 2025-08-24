@@ -67,18 +67,6 @@ timet
 > exit                       # Closes app
 ```
 
-## Real-time Features
-
-- **Live timers** - Running task times update every second
-- **Visual feedback** - Status messages show for actions
-- **Blinking cursor** - Active input area indication
-- **Auto-refresh** - Task list updates automatically
-- **Color coding**:
-  - 🟢 **Green** = Running tasks
-  - 🟡 **Yellow** = Paused tasks  
-  - **Green background** = Selected running task
-  - **Inverse** = Selected paused task
-
 ## Data Storage
 
 All tasks stored in `~/.timetracker-data.json` with:
