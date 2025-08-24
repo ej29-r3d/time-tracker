@@ -13,6 +13,8 @@ So I built timet - the time tracker I wished existed.
 - Stays minimal and focused on just tracking time
 - Collects logs in the local file on your machine
 
+<img width="723" height="540" alt="image" src="https://github.com/user-attachments/assets/9bbed83b-5397-4541-be31-3d5a18f87342" />
+
 ## Usage
 
 ### Start the app:
