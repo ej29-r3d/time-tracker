@@ -2,14 +2,16 @@
 
 A visual, real-time time tracking interface with integrated text input.
 
-## Features
+## Why I Built This
+I used to rely on KTimeTracker on my Linux machine - a simple, effective time tracking tool that stayed out of my way. After moving to macOS, I struggled to find something equally minimalistic. 
 
-✅ **Visual task list** - See all today's tasks with real-time timers  
-✅ **Arrow navigation** - Navigate tasks with ↑/↓ keys  
-✅ **Integrated input** - Type commands and new tasks in the same interface  
-✅ **Real-time updates** - Timers update every second  
-✅ **Color coding** - Running tasks highlighted in green  
-✅ **Simple commands** - start, stop, exit, or just type task names  
+So I built timet - the time tracker I wished existed.
+
+- It lives in the terminal where I already work
+- Starts tracking with a single command
+- Has a clean visual mode when needed
+- Stays minimal and focused on just tracking time
+- Collects logs in the local file on your machine
 
 ## Usage
 
